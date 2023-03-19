@@ -1,5 +1,23 @@
+Try it out: https://makecode.microbit.org/_2MTDHL9cAeTq
 
-> Open this page at [https://whykay.github.io/getting-here/](https://whykay.github.io/getting-here/)
+A simple example to keep count of different ways of getting here
+
+- Driving (P0)
+- Public Transport (P1)
+- Cycling/Walking (P2)
+
+Button A: Displays a simple graph for each of the types above
+
+- 0: No LED
+- 1-5: 1 LED
+- 6-10: 2 LEDs
+- More than 10: 3 LEDs
+
+Button B: Displays each P0/1/2 counts so far - scrolling
+
+Button A+B: Resets the programme - clearing everything.
+
+--- 
 
 ## Use as Extension
 
